@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 30px;
+    text-align: center;
+    background-color: white
+
+}
+svg{
+    background-color: whitesmoke;
+    border: 2px solid black;
+}
+#tooltip{
+    visibility: hidden;
+    width: auto;
+    height: auto;
+}
+#legend {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
